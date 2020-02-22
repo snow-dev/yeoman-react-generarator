@@ -1,0 +1,13 @@
+{
+  "name": "generator-example",
+  "version": "1.0.0",
+  "description": "Snow-dev yeoman generator example",
+  "files": ["generators"],
+  "keywords": ["yeoman-generator"],
+  "main": "index.js",
+  "author": "Carlos Ávila http://github.com/snow-dev",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.5.0"
+  }
+}
